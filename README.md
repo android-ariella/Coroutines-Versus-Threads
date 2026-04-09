@@ -106,4 +106,4 @@ This demo is part of a presentation that walks through coroutines, threads, and 
 
 You can view the slides here:
 
-👉 [View the slide deck]()
+👉 [View the slide deck](https://docs.google.com/presentation/d/1M_U-poWm2T5L7opZDoRbTptg43EPakeNm7eWmb0HzYA/edit?usp=sharing)
